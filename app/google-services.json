@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "489879713135",
+    "project_id": "hulp-ec94d",
+    "storage_bucket": "hulp-ec94d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489879713135:android:f5d02416c497ff7b41649a",
+        "android_client_info": {
+          "package_name": "js.dev.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489879713135-lqmb1db56hhrmp91skpo58ta6leg08he.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFORbvvkSPsmgb5onzLEAYlSFRlDod7FE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489879713135-lqmb1db56hhrmp91skpo58ta6leg08he.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
